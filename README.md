@@ -1,4 +1,4 @@
-# FIR and IIR Synthesizer in C
+# FIR and IIR Filter Synthesizer in C
 
 The c file can calculate the filter coefficients for both FIR and IIR filters. The FIR filters that can be synthesised are Hanning, Hamming and Blackman Window Functions. The IIR filter is calculated using Pascals Triangle. The FFTs can be performed by libraries such as fftw3 and UFFT.
 
